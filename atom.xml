@@ -180,9 +180,9 @@
       <category term="Linux" scheme="http://www.jmideas.cn/categories/Linux/"/>
     
     
-      <category term="django" scheme="http://www.jmideas.cn/tags/django/"/>
-    
       <category term="linux" scheme="http://www.jmideas.cn/tags/linux/"/>
+    
+      <category term="django" scheme="http://www.jmideas.cn/tags/django/"/>
     
       <category term="uwsgi" scheme="http://www.jmideas.cn/tags/uwsgi/"/>
     
