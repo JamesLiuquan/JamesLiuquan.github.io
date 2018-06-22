@@ -66,9 +66,9 @@
       <category term="liunx" scheme="http://www.jmideas.cn/categories/liunx/"/>
     
     
-      <category term="实用" scheme="http://www.jmideas.cn/tags/%E5%AE%9E%E7%94%A8/"/>
-    
       <category term="linux" scheme="http://www.jmideas.cn/tags/linux/"/>
+    
+      <category term="实用" scheme="http://www.jmideas.cn/tags/%E5%AE%9E%E7%94%A8/"/>
     
   </entry>
   
@@ -557,9 +557,9 @@
       <category term="实用" scheme="http://www.jmideas.cn/categories/%E5%AE%9E%E7%94%A8/"/>
     
     
-      <category term="markdown" scheme="http://www.jmideas.cn/tags/markdown/"/>
-    
       <category term="实用" scheme="http://www.jmideas.cn/tags/%E5%AE%9E%E7%94%A8/"/>
+    
+      <category term="markdown" scheme="http://www.jmideas.cn/tags/markdown/"/>
     
       <category term="写作" scheme="http://www.jmideas.cn/tags/%E5%86%99%E4%BD%9C/"/>
     
