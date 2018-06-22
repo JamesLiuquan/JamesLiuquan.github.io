@@ -7,8 +7,8 @@ title: Hexo
 subtitle:
 description:
 keywords:
-author: John Doe
-language:
+author: JamesLiu
+language: zh-Hans # 语言，还是改成汉语吧
 timezone:
 
 # URL
@@ -77,5 +77,7 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type:
+deploy: 
+  type: git
+  repository: https://github.com/JamesLiuquan/jamesliuquan.github.io
+  branch: master
